@@ -16,10 +16,7 @@ The project is a simple Python tool I created for web-based research automation,
 ## Install
 
 1. **Clone the repo**:
-   ```bash
-   git clone https://github.com/your-username/tavily-research-system.git
-   cd tavily-research-system
-   ```
+   
 2. **Install dependencies**:
    ```bash
    pip install langchain-community tavily-python
@@ -65,5 +62,3 @@ This is an attempt to gently touch on some of the main aspects of the code:
 ```markdown
 # Research Report: Quantum Computing
 
-## Summary
-This report gathers insights from 8
